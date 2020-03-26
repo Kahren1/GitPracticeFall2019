@@ -6,3 +6,4 @@ Kia IntelliJ
 GitHub Lexus GX470
 Mazda IntelliJ
 Kia IntelliJ
+Honda Civic IntelliJ
